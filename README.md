@@ -7,5 +7,5 @@
 - estudo no colégio [HElena Viana Sundin]
 ## Meus projetos
 - [PONG](https://editor.p5js.org/jhonatan.rafael.lara/sketches/HyKiCwrIB))
-  ![](https://media.tenor.com/LnsvYYo9N0YAAAAC/jacob-tratt-sliding-tackle.gif)
 ## Obrigado por ver meu perfil
+![](https://media.tenor.com/LnsvYYo9N0YAAAAC/jacob-tratt-sliding-tackle.gif)
